@@ -9,7 +9,7 @@ is trained on a small corpus of text data, and the application is deployed as a 
 
 ### Data Source :-
 
-The dataset used for this project is sourced from Kaggle:- [Human Conversation Text][(https://www.kaggle.com/datasets/projjal1/human-conversation-training-data)
+The dataset used for this project is sourced from Kaggle:- [Human Conversation Text](https://www.kaggle.com/datasets/projjal1/human-conversation-training-data)
 
 ### Project Description :-
 
